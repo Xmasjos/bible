@@ -1,3 +1,7 @@
+Zefania Bibles
+===========
+Source: https://sourceforge.net/projects/zefania-sharp/files/
+
 OSIS Bibles
 ===========
 
