@@ -132,7 +132,7 @@
         <bible title="Volxbibel 3.0" id="vlx3" />
         <bible title="Zürcher Bibel 1931" id="zürcher" />
     </language>
-    <language title="gr" id="gr">
+    <language title="Greek" id="el">
         <bible title="Byzantine/Majority Text (2000) w/ Strong's Numbers" id="bzy2000" />
         <bible title="Greek NT 1550" id="greek1550" />
         <bible title="Greek NT 1894" id="greek1894" />
